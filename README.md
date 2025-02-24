@@ -7,7 +7,7 @@ A Python-based budget management tool that helps users track their incomes, expe
 - Track incomes and expenses with categorised transactions  
 - Monitor long-term personal financial trends  
 - Set and track financial goals  
-- Analyze spending patterns by category and location  
+- Analyse spending patterns by category and location  
 - Generate visual reports using pie charts  
 - View financial summaries for custom time periods  
 
@@ -34,7 +34,7 @@ Python-Budget-Manager
    git clone https://github.com/HM-130/budgetManager.git
    cd budgetManager
 2. **Run The Program**
-   Ensure you have python 3 installed, and run python main.py
+   Ensure you have python 3 installed, and run the following command: python main.py
 3. **Follow Menu Instructions**
 
 ## About Me
