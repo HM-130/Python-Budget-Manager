@@ -31,7 +31,7 @@ Python-Budget-Manager
     
 ## How to Use
 1. **Clone the Repository**  
-   git clone https://github.com/your-username/budgetManager.git
+   git clone https://github.com/HM-130/budgetManager.git
    cd budgetManager
 2. **Run The Program**
    Ensure you have python 3 installed, and run python main.py
